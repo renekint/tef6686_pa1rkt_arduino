@@ -3,7 +3,7 @@
 
 // TEF6686 Converter version 1.33 by PA1RKT - changes since 1.32
 //  * Fixed a bug that affected STEREO/MONO/MUTE and signal level display (thanks to Arnold/GJ)
-
+//  * First version on github (https://github.com/renekint/tef6686_pa1rkt_arduino)
 
 // TEF6686 Converter version 1.32 by PA1RKT - changes since 1.31
 //  * Changed to hd44780 library for LCD control - expensive in kilobytes but much more modern and flexible
