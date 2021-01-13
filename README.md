@@ -1,6 +1,6 @@
 # tef6686_pa1rkt_arduino
 Software to control a TEF6686 based FM/AM/SW tuner with a single Arduino:
-- Standalone (4x20 LCD and rotary encoder are sufficient for basic use)
+- Standalone (4x20 LCD and rotary encoder with 'push mechanism are sufficient for basic use
 - Converter LO support so the display shows the actual frequency when using converters
 - Variable bandwidth, excellent for DX use
 - Fast tuning option (1 MHz steps)
